@@ -1,5 +1,5 @@
 # Sobre mim:
-Olá, me chamo Kauã Eduardo, tenho 17 anos e sou um </strong>desenvolvedor amador<strong> na área da programação.
+Olá, me chamo Kauã Eduardo, tenho 17 anos e sou um <strong>desenvolvedor amador<strong> na área da programação.
 
 
 ## Contato:
