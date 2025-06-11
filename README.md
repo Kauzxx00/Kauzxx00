@@ -1,7 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 200px; height: 110px; overflow: hidden; border-radius: 20px; margin: 20px auto;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydXJra2dwczM4emtiNGNrZXRtMWFibW1mdnk5Y2MwYTk1YTZncTN6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" style="min-width: 100%; min-height: 100%; object-fit: cover;">
-</div>
-
 <h1 align="center">🐱 Bem-vindo ao meu perfil!</h1>
 <p align="center">Desenvolvedor em formação, apaixonado por criar e aprender 🚀</p>
 
