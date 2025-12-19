@@ -57,14 +57,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauzxx00&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kauzxx00&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kauzxx00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-</p>
-
 ---
 
 > ✨ *"Código é poesia, e cada linha conta uma história."*
