@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kauzxx00&color=blueviolet&style=flat" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kauzxx00&theme=dark&hide_border=true&border_radius=7&short_numbers=true&background=45%2C060733%2C161927)](https://git.io/streak-stats)
 </p>
 
 ---
