@@ -53,8 +53,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauzxx00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauzxx00&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kauzxx00&theme=dark&hide_border=true&border_radius=7&short_numbers=true&background=45%2C060733%2C161927" alt="GitHub Streak" /></a>
 </p>
 
 ---
