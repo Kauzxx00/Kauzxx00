@@ -2,12 +2,12 @@
 <p align="center">Desenvolvedor em formação, apaixonado por criar e aprender 🚀</p>
 
 <p align="center">
-  <a href="mailto:kaua.eduardo.dev@gmail.com">
+  <div href="mailto:kaua.eduardo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1329849426675499010">
+  </div>
+  <div href="https://discord.com/users/1329849426675499010">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </div>
 </p>
 
 <p align="center">
@@ -53,7 +53,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kauzxx00&theme=dark&hide_border=true&border_radius=7&short_numbers=true&type=png&background=45%2C060733%2C161927" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kauzxx00&theme=tokyonight&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauzxx00&layout=compact">
 </p>
 
 ---
