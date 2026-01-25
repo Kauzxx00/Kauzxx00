@@ -1,14 +1,14 @@
 <h1 align="center">🐱 Bem-vindo ao meu perfil!</h1>
 <p align="center">Desenvolvedor em formação, apaixonado por criar e aprender 🚀</p>
 
-<p align="center">
+<div align="center">
   <div href="mailto:kaua.eduardo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </div>
   <div href="https://discord.com/users/1329849426675499010">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </div>
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kauzxx00&color=blueviolet&style=flat" />
@@ -52,7 +52,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="center" flex="row">
   <img src="https://github-readme-stats.vercel.app/api?username=kauzxx00&theme=tokyonight&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauzxx00&layout=compact">
 </p>
